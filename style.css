@@ -1,0 +1,49 @@
+body {
+  background-color: blue;
+  text-align: center;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+h1 {
+  font-size: 100pt;
+}
+hr.boldLine {
+  width: 80%;
+  border: 0;
+  height: 5px;
+  background-color: red;
+}
+hr.mediumLine {
+  width: 80%;
+  height: 2px;
+  background-color: white;
+}
+
+h2 {
+  font-size: 40pt;
+}
+
+img {
+  border: 5px solid red;
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: red;
+  border: 5px solid white;
+  padding: 30px;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 20pt;
+  font-weight: bold;
+  color: white;
+}
+
+img:hover {
+  box-shadow: 0 0 30px white;
+}
+
+p {
+  margin: auto;
+  width: 65%;
+  padding: 10px;
+}
